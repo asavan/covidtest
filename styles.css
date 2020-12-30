@@ -1,0 +1,32 @@
+body {
+  background: #fff;
+}
+
+.content {
+  height: 100%;
+  display: grid;
+  grid-template-rows: 1fr 200px;
+  
+}
+
+.poop {
+    font-size: 30rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.danger {
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.section1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+}
